@@ -1,5 +1,3 @@
-# silana-v3
-
 import { watchFile, unwatchFile } from 'fs'
 import fs from 'fs'
 import chalk from 'chalk'
